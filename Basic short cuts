@@ -1,1 +1,9 @@
-Shift+v => to --VISUSAL LINE--
+:Shift+v ==> to --VISUSAL LINE--
+
+:tabc close a tab with any pane
+
+:bd (destroy empty pane)close current buffer without changes. if want you change file must save then bd
+
+:q close file. but changes not save.
+
+I hope it complete
